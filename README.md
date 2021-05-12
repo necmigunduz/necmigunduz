@@ -1,26 +1,24 @@
 ### Hi, I am Necmi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necmigunduz&label=Views&color=blue&style=plastic" alt="necmigunduz" /> </p>
 
-![image](https://user-images.githubusercontent.com/61701101/101888289-fd99de80-3bae-11eb-81b4-fa789a4f63a4.png)
-
 I am a full-stack software developer, an economist, an amateur photographer, and an amateur designer. I am good at statistics, econometrics, and analyzing data. I have the experience of producing strategies and policies. In my career, I have managed, monitored, and moderated face-to-face and online meetings, workshops, and focus meetings. I can design research projects.
 
 ### Languages and Tools:
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-">
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+<code><img height="20" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
+<code><img height="20" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></code>
+<code><img height="20" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"></code>
+<code><img height="20" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-"></code>
+<code><img height="20" src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"></code>
+<code><img height="20" src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></code>
+<code><img height="20" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></code>
+<code><img height="20" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"></code>
+<code><img height="20" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></code>
 
 ### 🔭 I’m currently working on ...
 I am working on a simple game project in Javascript nowadays. 
