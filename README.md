@@ -1,4 +1,4 @@
-### Hi, I am Necmi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hello, I am Necmi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necmigunduz&label=Views&color=blue&style=plastic" alt="necmigunduz" /> </p>
 
 I am a full-stack software developer, an economist, an amateur photographer, and an amateur designer. I am good at statistics, econometrics, and analyzing data. I have the experience of producing strategies and policies. In my career, I have managed, monitored, and moderated face-to-face and online meetings, workshops, and focus meetings. I can design research projects.
