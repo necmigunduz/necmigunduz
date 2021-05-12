@@ -34,8 +34,12 @@ Anything! I would always love to meet you, listen to you, understand your ideas,
 
 ### 📫 How to reach me: ...
 Email: necmigunduz@gmail.com, 
+Whatsapp: +(90) 507 6949863,
+Twitter: https://twitter.com/necm_gun,
+Instagram: https://www.instagram.com/necmgun/,
+Linkedin: https://www.linkedin.com/in/necmigunduz/ .
 
-Whatsapp: +(90) 507 6949863.
+
 
 ### ⚡ Fun fact: ...
 You can see my photography: https://gurushots.com/necmigunduz/photos
