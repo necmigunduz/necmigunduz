@@ -22,5 +22,5 @@ Email: necmigunduz@gmail.com,
 Whatsapp: +(90) 507 6949863.
 
 ### ⚡ Fun fact: ...
-You can see my photography: `https://gurushots.com/necmigunduz/photos`
-You can see my designs: `https://www.instagram.com/myartsypieces/`
+You can see my photography: "https://gurushots.com/necmigunduz/photos"
+You can see my designs: "https://www.instagram.com/myartsypieces/"
