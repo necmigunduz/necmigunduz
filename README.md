@@ -21,16 +21,16 @@ I am a full-stack software developer, an economist, an amateur photographer, and
 <code><img height="20" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></code>
 
 ### 🔭 I’m currently working on ...
-I am working on a simple game project in Javascript nowadays. 
+A simple game project in Javascript nowadays. 
 
 ### 🌱 I’m currently learning ...
-I am learning Javascript and React&Redux nowadays. 
+Javascript and React&Redux nowadays. 
 
 ### 👯 I’m looking to collaborate on ...
-I would like to collaborate on my startup business idea of building a peace-maker software through a global cooperation in the future.
+My startup business idea of building a peace-maker software through a global cooperation in the future.
 
 ### 💬 Ask me about ...
-Anything! I would always love to meet you, listen to you, understand your ideas, and cooperate with you! However, I do not support any racist, sexiest, violent, and other non-peaceful actions under any circumstance!
+Anything you wonder about me! Or anything we would wonder about together! I would always love to know you, listen to you, understand your ideas, and cooperate with you! However, I do not support any racist, sexiest, violent, and other non-peaceful actions under any circumstance!
 
 ### 📫 How to reach me: ...
 Email: necmigunduz@gmail.com, 
