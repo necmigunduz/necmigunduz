@@ -42,6 +42,5 @@ Linkedin: https://www.linkedin.com/in/necmigunduz/ .
 
 
 ### ⚡ Fun fact: ...
-You can see my photography: https://gurushots.com/necmigunduz/photos
-
-You can see my designs: https://www.instagram.com/myartsypieces/
+My photography: https://gurushots.com/necmigunduz/photos
+My designs: https://www.instagram.com/myartsypieces/
