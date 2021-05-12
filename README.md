@@ -37,9 +37,7 @@ Email: necmigunduz@gmail.com,
 Whatsapp: +(90) 507 6949863,
 Twitter: https://twitter.com/necm_gun,
 Instagram: https://www.instagram.com/necmgun/,
-Linkedin: https://www.linkedin.com/in/necmigunduz/ .
-
-
+Linkedin: https://www.linkedin.com/in/necmigunduz/.
 
 ### ⚡ Fun fact: ...
 My photography: https://gurushots.com/necmigunduz/photos
