@@ -1,7 +1,7 @@
 ### Hello, I am Necmi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necmigunduz&label=Views&color=blue&style=plastic" alt="necmigunduz" /> </p>
 
-I am a full-stack software developer, an economist, an amateur photographer, and an amateur designer. I am good at statistics, econometrics, and analyzing data. I have the experience of producing strategies and policies. In my career, I have managed, monitored, and moderated face-to-face and online meetings, workshops, and focus meetings. I can design research projects.
+I am a full-stack software developer, an economist, an amateur photographer, and an amateur designer. I am good at statistics, econometrics, and analyzing data. I have experience in producing strategies and policies. In my career, I have managed, monitored, and moderated face-to-face and online meetings, workshops, and focus meetings. I can design research projects.
 
 ### Languages and Tools:
 <code><img height="20" src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code>
@@ -21,16 +21,16 @@ I am a full-stack software developer, an economist, an amateur photographer, and
 <code><img height="20" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></code>
 
 ### 🔭 I’m currently working on ...
-A simple game project in Javascript nowadays. 
+I am working on a simple game project in javascript nowadays. 
 
 ### 🌱 I’m currently learning ...
-Javascript and React&Redux nowadays. 
+I am learning javascript and react&redux nowadays. 
 
 ### 👯 I’m looking to collaborate on ...
-My startup business idea of building a peace-maker software through a global cooperation in the future.
+I would like to collaborate on my startup business idea of building peace-maker software through global cooperation in the future.
 
 ### 💬 Ask me about ...
-Anything you wonder about me! Or anything we would wonder about together! I would always love to know you, listen to you, understand your ideas, and cooperate with you! However, I do not support any racist, sexiest, violent, and other non-peaceful actions under any circumstance!
+Anything! I would always love to meet you, listen to you, understand your ideas, and cooperate with you! However, I do not support any racist, sexiest, violent, and other non-peaceful actions under any circumstance!
 
 ### 📫 How to reach me: ...
 Email: necmigunduz@gmail.com, 
