@@ -19,6 +19,7 @@ I am a full-stack software developer, an economist, an amateur photographer, and
 <code><img height="20" src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"></code>
+<code><img height="20" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=nodejs&logoColor=FFFFFF"></code>
 
 ### 🔭 I’m currently working on ...
 I am working on a simple game project in javascript nowadays. 
